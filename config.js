@@ -13,7 +13,7 @@ AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // make true if you want auto reply on status 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY PROxABDULLAH-MD 🤍*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY ꧁𓆩PʀᴏˣAʙᴅᴜʟʟᴀʜ𓆪꧂ 🤍*",
 // set the auto reply massage on status reply  
 ANTI_DELETE: process.env.ANTI_DELETE || "true",
 // set true false for anti delete     
@@ -31,9 +31,9 @@ MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/lom1ep.p
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "PROxABDULLAH-MD",
+BOT_NAME: process.env.BOT_NAME || "꧁𓆩PʀᴏˣAʙᴅᴜʟʟᴀʜ𓆪꧂",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "PROxABDULLAH-MD",
+STICKER_NAME: process.env.STICKER_NAME || "꧁𓆩PʀᴏˣAʙᴅᴜʟʟᴀʜ𓆪꧂",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -43,9 +43,9 @@ DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
 OWNER_NUMBER: process.env.OWNER_NUMBER || "923213509846",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "*PROxABDULLAH*",
+OWNER_NAME: process.env.OWNER_NAME || "*꧁𓆩PʀᴏˣAʙᴅᴜʟʟᴀʜ𓆪꧂*",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ PROxABDULLAH ❣️*",
+DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ꧁𓆩PʀᴏˣAʙᴅᴜʟʟᴀʜ𓆪꧂ ❣️*",
 // add bot owner name    
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/lom1ep.png",
 // add img for alive msg
